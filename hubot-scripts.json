@@ -1,4 +1,5 @@
 [
+  "oauth.coffe",
   "redis-brain.coffee",
   "remind.coffee",
   "shipit.coffee"
